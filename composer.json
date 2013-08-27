@@ -1,0 +1,7 @@
+{
+    "name": "webd/aggregation",
+    "description": "Aggregation functions",
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
