@@ -1,7 +1,8 @@
 php-aggregation-operators
 =========================
 
-Implementation in PHP of aggregation operators
+PHP implementation of aggregation operators
+
 Currently available:
 - Weigted Ordered Weighted Aggregation (WOWA)
 
