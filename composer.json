@@ -1,7 +1,12 @@
 {
     "name": "webd/aggregation",
+    "type": "library",
     "description": "Aggregation functions",
+    "license": "MIT",
     "autoload": {
-        "psr-0": {"": "src/"}
+        "psr-4": {"Aggregation\\": "src"}
+    },
+    "require": {
+        "phpunit/phpunit": "^7.2"
     }
 }
